@@ -1,0 +1,52 @@
+select.form-control{
+    -moz-appearance: none !important;
+    -webkit-appearance: none !important;
+    width: 100% !important;
+}
+
+.form-group{
+}
+
+.form-group label{
+    position: relative;
+    top: 25px;
+    left: 15px;
+    font-weight: 400;
+    color: #888;
+    font-size: .8em;
+    z-index: 99;
+}
+.form-group .form-control{
+    padding-top: 20px;
+    height: auto;
+}
+
+.form-group select.form-control{
+    background: url("interface---arrow-bottom.png") 98% center no-repeat;
+    background-size: 30px;
+}
+
+.form-group.capsule,.form-group.capsule label,.form-group.capsule input {
+    width: auto !important;
+    max-width: 200px;
+}
+.form-group.capsule{
+    display: inline-block;
+    margin: 0 0 10px 0;
+}
+.form-group.capsule label{
+    top : 0;
+    left: 0;
+    background: #cccccc;
+    padding: 7px 12px;
+    border-radius: 7px;
+    display: inline-block;
+    cursor: pointer;
+}
+.form-group.capsule input{
+    display: none;
+}
+.form-group.capsule label:hover,.form-group.capsule label:active,.form-group.capsule label.selected {
+    background: #444;
+    color: #eee;
+}

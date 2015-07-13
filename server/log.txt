@@ -1,0 +1,4 @@
+DateTime	W#	Name	Address	Category	Role	Purpose(s)	Remarks
+2015-07-13 07:48 PM	Tiewakdfskljl	hj	khlk;	Sophomore	Student	Use office resources, Acquire Information	sdfzd
+2015-07-13 07:48 PM	dsfa	dsfa	dsfsf	Sophomore	Student Ambassador	Use office resources	d
+2015-07-13 08:19 PM						Acquire Information, Use office resources	
